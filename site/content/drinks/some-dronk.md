@@ -7,3 +7,4 @@ type: beer
 price: '25'
 ---
 
+
